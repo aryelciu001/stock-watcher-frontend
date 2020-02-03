@@ -1,0 +1,15 @@
+#information-box-table {
+  border: #dddddd 1px solid;
+  border-collapse: collapse;
+}
+#information-box-table td {
+  border: #dddddd 1px solid;
+  padding: 10px;
+}
+
+.pos-change {
+  color: green;
+}
+.neg-change {
+  color: red;
+}
